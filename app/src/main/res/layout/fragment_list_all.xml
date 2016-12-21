@@ -1,0 +1,52 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/a1"
+    tools:context="DBFragment.ListAllFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <Button
+                android:id="@+id/btnListAll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/List_all"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/btnListByCategory"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/List_by_category"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/btnListByPaymode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/List_by_paymode"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/btnListByDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/List_by_date"
+                android:textAllCaps="false" />
+        </LinearLayout>
+
+    </ScrollView>
+</FrameLayout>

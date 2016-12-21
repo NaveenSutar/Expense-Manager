@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-9925589342665160/4763551735</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select">Please select category</string>
+
+    <string name="Click_Here_to_Select_Category">Click Here to Select Category</string>
+    <string name="Enter_Category_Name">Enter Category Name</string>
+    <string name="Save">Save</string>
+    <string name="Clear">Clear</string>
+
+    <string name="Set_Date">Set Date</string>
+    <string name="Enter_Item_Name">Enter Item Name</string>
+    <string name="Enter_Item_Description">Enter Item Description</string>
+    <string name="Enter_Amount">Enter Amount</string>
+
+    <string name="Date">Date</string>
+    <string name="Name">Name</string>
+    <string name="Description">Description</string>
+    <string name="Category">Category</string>
+    <string name="Amount">Amount</string>
+    <string name="Mode">Mode</string>
+    <string name="Total_Expense">Total Expense : </string>
+    <string name="Daily_Expense">Daily Expense : </string>
+    <string name="Max_Expense">Max. Expense : </string>
+    <string name="Min_Expense">Min. Expense : </string>
+    <string name="Rs">Rs</string>
+
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+    <string name="Cancel">Cancel</string>
+
+    <string name="Expense_Report">Expense Report</string>
+    <string name="From">From:</string>
+    <string name="To">To:</string>
+    <string name="Go">Go</string>
+
+    <string name="Enter_New_Password">Enter New Password</string>
+    <string name="ReEnter_Password">Re-Enter Password</string>
+
+    <string name="Welcome_to_Expense_Manager">Welcome to Expense Manager</string>
+    <string name="Enter_User_Name">Enter User Name</string>
+    <string name="Enter_Password">Enter Password</string>
+    <string name="Remember_me">Remember me</string>
+    <string name="Forgot_Password">Forgot Password?</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="Sign_In">Sign In</string>
+
+    <string name="Welcome_Message">Welcome to Expense Manager, first register yourself to secure your data</string>
+    <string name="Enter_Full_Name">Enter Full Name</string>
+    <string name="Register">Register</string>
+
+    <string name="Add_Expense_Category">Add Your Expense Categories Here!!!</string>
+
+    <string name="List_all">List all</string>
+    <string name="List_by_category">List by category</string>
+    <string name="List_by_paymode">List by paymode</string>
+    <string name="List_by_date">List by date</string>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textExpDate"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.1"
+        android:gravity="center"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textExpName"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.1"
+        android:padding="3dp"
+        android:gravity="center"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textExpDescription"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.1"
+        android:padding="3dp"
+        android:gravity="center"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textExpAmount"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.1"
+        android:padding="3dp"
+        android:gravity="center"
+        android:textSize="15dp" />
+</LinearLayout>
